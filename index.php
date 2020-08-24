@@ -6,7 +6,7 @@
         <link rel="shortcut icon" href="favi.ico">
         <meta name="viewport" content="width=device-width initial-scale=1, minimum-scale=1">
         <title>timesky82@gmail.com</title>
-        <meta property="og:image" content="og_img.jpg">
+        <meta property="og:image" content="og_img.jpg?01">
         <link href="css/basic.css" type="text/css" rel="stylesheet" />
         <link href="css/ionicons.min.css" type="text/css" rel="stylesheet">
         <link href="css/animate.css" type="text/css" rel="stylesheet" />
