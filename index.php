@@ -2,7 +2,7 @@
 <html lang="ko">
   <head>
     <meta charset="UTF-8" />
-    <link rel="shortcut icon" href="https://timesky82.github.io/portfolio/favi.ico" />
+    <link rel="shortcut icon" href="portfolio/favi.ico" />
     <meta
       name="viewport"
       content="width=device-width initial-scale=1, minimum-scale=1"
@@ -10,7 +10,7 @@
     <title>timesky82@gmail.com</title>
     <meta
       property="og:image"
-      content="https://timesky82.github.io/portfolio/og_img.jpg"
+      content="portfolio/og_img.jpg"
     />
     <link href="css/basic.css" type="text/css" rel="stylesheet" />
     <link href="css/ionicons.min.css" type="text/css" rel="stylesheet" />
