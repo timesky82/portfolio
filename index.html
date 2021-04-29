@@ -295,7 +295,11 @@
               <div class="article_box">
                 <h2 class="tit">Skill</h2>
                 <span class="tit_sub"
-                  >- Sass<br />
+                  >
+                  - Vue.js <br>
+                  - Vuetifyjs <br>
+                  - Lottie <br>
+                  - Sass<br />
                   - Compass <br />
                   - Greensock<br />
                 </span>
@@ -312,7 +316,7 @@
               <div class="article_box">
                 <h2 class="tit">Tool</h2>
                 <span class="tit_sub"
-                  >- sublimetext <br />- git <br />- svn
+                  >- VScode <br />- sublimetext <br />- git <br />- svn
                 </span>
               </div>
             </div>
@@ -842,16 +846,16 @@
               data-wow-delay="0.3s"
               data-wow-duration=".5s"
             >
-              <div class="pic_area" data-avi="9-F2vE8sFY4">
+            
+              <div class="pic_area" data-avi="LYTTMPNQQZQ">
                 <img class="lazyload" src="images/lazy.gif" alt="유튜브 사진" />
                 <i class="ion ion-md-play"></i>
               </div>
               <div class="tit_area">
                 <h3 class="tit">
-                  CodeDrop - A Web Application for Programming Students and
-                  their Instructors
+                How To Add Motion Animations To Your Website Using Lottie & Elementor [WOW]
                 </h3>
-                <p class="date">2019. 12. 2</p>
+                <p class="date">2020. 4. 3</p>
               </div>
             </a>
           </div>
